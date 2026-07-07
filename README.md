@@ -3,9 +3,9 @@
 ## 📖 Descripción del Proyecto
 Este repositorio contiene el código fuente de mi portafolio web personal, desarrollado como parte de las prácticas de la materia. El objetivo principal es mostrar mis habilidades como estudiante de Ingeniería en Sistemas Computacionales, así como los proyectos de desarrollo de software y web en los que he trabajado.
 
-* **Framework CSS utilizado:** [Escribe aquí Bootstrap o Tailwind CSS]
-* **Plantilla base:** [Nombre de la plantilla]
-* **Enlace de descarga de la plantilla:** [Pega el link de donde la sacaste]
+* **Framework CSS utilizado:** Bootstrap 
+* **Plantilla base:** freelance
+* **Enlace de descarga de la plantilla:** https://startbootstrap.com/theme/freelancer
 
 ## 🗂️ Estructura y Secciones
 El portafolio está compuesto por las siguientes secciones principales a través de un menú de navegación:
