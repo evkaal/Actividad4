@@ -26,9 +26,9 @@ El portafolio está compuesto por las siguientes secciones principales a través
 5. **Despliegue:** Inicialicé el repositorio en GitHub, subí los cambios y activé GitHub Pages desde la configuración del repositorio.
 
 ## 📸 Capturas de Pantalla
-![Captura de la sección Inicio](img/inicio.png)
+![Captura de la sección Inicio](img/portfolio/inicio.png)
 
 
-![Captura de la sección Proyectos](img/proyectos.png)
+![Captura de la sección Proyectos](img/portfolio/proyectos.png)
 
 #
