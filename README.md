@@ -13,7 +13,7 @@ El portafolio está compuesto por las siguientes secciones principales a través
 1. **Inicio (Hero):** Sección de bienvenida con mi nombre, título profesional y una fotografía formal.
 2. **Sobre Mí (About):** Breve descripción de mi perfil como estudiante del Instituto Tecnológico de Oaxaca (ITO) y mis intereses en el desarrollo de software.
 3. **Habilidades (Skills):** Listado de tecnologías que manejo, incluyendo lenguajes (Java, C#, JS, JavaScript), Stack MERN.
-4. **Proyectos (Portfolio):** Galería interactiva mostrando desarrollos como "DonaVida", dos Sistemas de Gestión en C# WPF "Lavanderia" y en JavaScript, Css, html "Inventario de centro de computo" .
+4. **Proyectos (Portfolio):** Galería interactiva mostrando dos Sistemas de Gestión en C# WPF "Lavanderia" y en JavaScript, Css, html "Inventario de centro de computo" .
 5. **Contacto (Contact):** Formulario de contacto y enlaces a mis redes profesionales (GitHub).
 
 ## Proceso de Creación
